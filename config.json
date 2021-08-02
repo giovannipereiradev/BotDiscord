@@ -1,0 +1,10 @@
+{
+    "prefix": "ESCOLHA UM PREFIXO PARA SEU BOT",
+    "dev": "COLOQUE SEU NOME AQUI",
+    "devId":"COLOQUE O SEU ID DO DISCORD AQUI",
+    "token": "COLE O TOKEN DO SEU BOT AQUI",
+    "cor":"COLOQUE SUA COR EM HEXADECIMAL AQUI",
+    "serverId":"COLOQUE O ID DO SERVIDOR DO BOT AQUI",
+    "manutençãoGeral": false
+
+}
