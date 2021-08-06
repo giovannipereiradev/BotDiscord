@@ -88,6 +88,7 @@
    2) Edite as informações necessárias, o arquivo deve ficar assim (https://prnt.sc/1jxjbo5);
    3) Abra o arquivo "ready.js" no VS Code;
    4) Edite as frases do status do bot;
+   
    Pronto! Nosso BOT já está pronto para ser ligado!
    
 # Ligando nosso BOT
@@ -97,6 +98,7 @@
    4) Digite "npm i -s discord.js fs moment@2.29.1"; https://prnt.sc/1jxojur
    5) Espere a instalação das bibliotecas
    6) Digite "node ." no terminal; https://prnt.sc/1jxp3pp
+   
    Pronto! Seu BOT está online!
    
 # Hospedando o BOT
