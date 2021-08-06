@@ -56,6 +56,6 @@ module.exports = async (client, message) => {
     }
 
     if(config.manutençãoGeral == false) {
-        client.guilds.cache.get(`${config.serverId}`).me.setNickname('COLOQUE O NOME DO SEU BOT AQUI')
+        client.guilds.cache.get(`${config.serverId}`).me.setNickname(config.nomeDoBot)
     }
 }

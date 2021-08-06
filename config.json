@@ -5,6 +5,7 @@
     "token": "COLE O TOKEN DO SEU BOT AQUI",
     "cor":"COLOQUE SUA COR EM HEXADECIMAL AQUI",
     "serverId":"COLOQUE O ID DO SERVIDOR DO BOT AQUI",
+    "nomeDoBot":"COLOQUE O NOME DO SEU BOT AQUI",
     "manutençãoGeral": false
 
 }
