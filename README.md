@@ -82,3 +82,22 @@
    6) Selecione a pasta do bot (A pasta que trocamos o nome);
    
    Pronto! Agora ja estamos com a pasta origem do nosso bot aberto no VS Code!
+   
+# Editando arquivos do BOT
+   1) Abra o arquivo "config.json" no VS Code;
+   2) Edite as informações necessárias, o arquivo deve ficar assim (https://prnt.sc/1jxjbo5);
+   3) Abra o arquivo "ready.js" no VS Code;
+   4) Edite as frases do status do bot;
+   Pronto! Nosso BOT já está pronto para ser ligado!
+   
+# Ligando nosso BOT
+   1) Clique em "Terminal";
+   2) Clique em "Novo terminal"; https://prnt.sc/1jxlf6l
+   3) Digite "npm init" no terminal; https://prnt.sc/1jxm668
+   4) Digite "npm i -s discord.js fs moment@2.29.1"; https://prnt.sc/1jxojur
+   5) Espere a instalação das bibliotecas
+   6) Digite "node ." no terminal; https://prnt.sc/1jxp3pp
+   Pronto! Seu BOT está online!
+   
+# Hospedando o BOT
+   Recomendamos que hospedem seu bot na Disclaud (https://discloudbot.com/), existem planos pagos e planos gratuitos, obviamente os planos pagos são melhores, mas para pequenos BOTS o plano gratis é suficiente.
