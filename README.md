@@ -54,9 +54,31 @@
    Pronto! Agora temos o BOT configurado e ja temos o TOKEN em mãos!
    
 # Intalando ferramentas para editar e mexer nos códigos do BOT
-
    Instale o Vs Code 2 e o Node.js
    - Link de intalação Vs Code: https://code.visualstudio.com/
    - Link de intalação Node.js: https://nodejs.org/en/download/
 
 # Download arquivos do BOT
+   Para instalar o arquivo do bot base (.zip) siga as instruções:
+   1) Va para o site https://github.com/GiPeTa/BotDiscord;
+   2) Clique em "Code"; https://prnt.sc/1jx18t3
+   3) Cliquem em "Download ZIP"; https://prnt.sc/1jx1cgw
+   4) Arraste o download para sua área de trabalho;
+   
+   Windowns:
+   1) Clique com o botão direito em cima do arquivo;
+   2) Clique em "Extrair aqui";
+
+   Mac Os:
+   1) Clique no arquivo download;
+   2) Coloque a pasta descompactada na sua área de trabalho;
+   
+# Editando BOT
+   1) Renomeie a pasta para o nome do seu bot (Exemplo: TutorialBot) PS: O NOME DA PASTA NÃO PODE CONTER CARACTERES EXPECIAIS, "Ç", e EMOJIS;
+   2) Abra o aplicativo do VS Code;
+   3) Faça os primeiros passos do aplicatico;
+   4) Faça o download da linguagem JavaScript no VS Code; https://prnt.sc/1jx6px7
+   5) Clique em "Abrir pasta..."; https://prnt.sc/1jx7mjk
+   6) Selecione a pasta do bot (A pasta que trocamos o nome);
+   
+   Pronto! Agora ja estamos com a pasta origem do nosso bot aberto no VS Code!
