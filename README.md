@@ -6,9 +6,9 @@
 # Recomendações importantes!
  Se pretende aprender a criar seus próprios bots para o discord, vocês precisam estudar! Nenhum conhecimento é adquirido por milagre, requer muito tempo de dedicação, esforso e principalmente força de vontade!
  
- Esse bot será desencvolvido em Node.js, que usa a linguágem Java Script, existem outras linguágens para criação de bots mas a que usaremos nesse projeto será o Java Script!
+ Esse bot será desenvolvido em Node.js, que usa a linguagem JavaScript, existem outras linguagens para criação de bots mas a que usaremos nesse projeto será o JavaScript!
  
- Abaixo vou recomendar uma playlist de aulas de Java Script patrocinada pelo Google para dar início a sua jornada de aprendizagem.
+ Abaixo vou recomendar uma playlist de aulas de JavaScript patrocinada pelo Google para dar início a sua jornada de aprendizagem.
  
  Aulas de JS : https://youtube.com/playlist?list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm
  
@@ -28,7 +28,7 @@
    1) Volte ao site https://discord.com/developers/applications/;
    2) Clique em "New Application"; https://prnt.sc/1i7wd64
    3) Escolha um nome para seu BOT e selecione o time criado anteriormente e clique em "Create"; https://prnt.sc/1i7zmmw
-   4) Escolha uma foto para o seu bot e escreva um descrissão para ele; (Essas informações iram aparecer para todos) https://prnt.sc/1i80j75
+   4) Escolha uma foto para o seu bot e escreva um descrição para ele; (Essas informações irão aparecer para todos) https://prnt.sc/1i80j75
    5) Clique em "Save Changes"; https://prnt.sc/1i80yv4
 
    Configurando seu BOT:
@@ -39,7 +39,7 @@
    5) Ative as opções "PRESENCE INTENT" e "SERVER MEMBERS INTENT", a opção "PUBLIC BOT" é opcional deixar ele ativa, se ela estiver ativa qualquer pessoa pode add seu BOT em qualquer servidor que ele tenha permissão; https://prnt.sc/1i82x5q
    6) Cliquem em "Save Changes" https://prnt.sc/1i846ve
    
-   Ponto! Criamos e configuramos o seu primeiro BOT!
+   Pronto! Criámos e configuramos o seu primeiro BOT!
    
    Agora precisamos pegar o TOKEN dele, para podermos colocar nos arquivos do nosso bot para ele funcionar!
    
@@ -51,7 +51,7 @@
    3) Cliquem em "Bot"; https://prnt.sc/1i81ta9
    4) Cliquem em "Copy"; https://prnt.sc/1i86ne2
 
-   Pronto! Agora temos o BOT configurado e ja temos o TOKEN em mãos!
+   Pronto! Agora temos o BOT configurado e já temos o TOKEN em mãos!
    
 # Intalando ferramentas para editar e mexer nos códigos do BOT
    Instale o Vs Code 2 e o Node.js
@@ -65,11 +65,11 @@
    3) Cliquem em "Download ZIP"; https://prnt.sc/1jx1cgw
    4) Arraste o download para sua área de trabalho;
    
-   Windowns:
+   Windows:
    1) Clique com o botão direito em cima do arquivo;
    2) Clique em "Extrair aqui";
 
-   Mac Os:
+   MacOs:
    1) Clique no arquivo download;
    2) Coloque a pasta descompactada na sua área de trabalho;
    
@@ -102,4 +102,4 @@
    Pronto! Seu BOT está online!
    
 # Hospedando o BOT
-   Recomendamos que hospedem seu bot na Disclaud (https://discloudbot.com/), existem planos pagos e planos gratuitos, obviamente os planos pagos são melhores, mas para pequenos BOTS o plano gratis é suficiente.
+   Recomendamos que hospedem seu bot na Discloud (https://discloudbot.com/), existem planos pagos e planos gratuitos, obviamente os planos pagos são melhores, mas para pequenos BOTS o plano grátis é suficiente.
